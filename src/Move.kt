@@ -1,0 +1,1 @@
+class Move(var row: Int, var col: Int)
